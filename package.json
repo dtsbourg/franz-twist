@@ -1,0 +1,23 @@
+{
+  "name": "Twist",
+  "version": "0.0.1",
+  "description": "Twist",
+  "main": "index.js",
+  "author": "Dylan Bourgeois (dtsbourg)",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://twistapp.com",
+    "serviceName": "Twist App - Mindful Team Communication",
+    "message": "Fewer notifications. More meaningful teamwork.",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
